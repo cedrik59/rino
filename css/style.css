@@ -1,0 +1,161 @@
+.rino {
+
+  width: 400px;
+  height: 300px;
+  border-radius: 60%;
+  background-color: gray;
+  position: relative;
+  top: 70px;
+  left: 60px;
+}
+
+
+.head {
+  width: 150px;
+  height: 150px;
+  border-radius: 60px;
+  background-color: gray;
+  position: absolute;
+  top: 80px;
+  left: 430px;
+  border-radius: 80px 80px 80px 80px;
+}
+
+.eye {
+  width: 60px;
+  height: 60px;
+  border-radius: 50px;
+  background-color: white;
+  position: relative;
+  top: 20px;
+  left:50px;
+}
+
+.iris {
+  width: 40px;
+  height: 40px;
+  border-radius: 50px;
+  background-color: black;
+  position: relative;
+  top: -30px;
+  left:60px;
+}
+.cuerno {
+  width: 20px;
+  height: 40px;
+  border-radius: 60px;
+  background-color: white;
+  position: absolute;
+  transform: rotate(15deg);
+  top:  40px;
+  left: 155px;
+  border-radius: 800px  800px 80px 150px;
+}
+  
+.nose{
+  width: 70px;
+  height: 70px;
+  border-radius: 50px;
+  background-color: gray;
+  position: relative;
+  top: -40px;
+  left:110px;
+}
+
+.pierna2 {
+  width: 70px;
+  height: 130px;
+  border-radius: 60px;
+  background-color: gray;
+  position: absolute;
+  top:  230px;
+  left: 120px;
+  border-radius: 800px  800px 500px 500px;
+}
+
+.sombra{
+  width: 70px;
+  height: 130px;
+  border-radius: 60px;
+  background-color: black;
+  position: absolute;
+  top:  250px;
+  left: 95px;
+  border-radius: 800px  800px 500px 500px; 
+}
+
+.pierna {
+  width: 70px;
+  height: 130px;
+  border-radius: 60px;
+  background-color: gray;
+  position: absolute;
+  top:  250px;
+  left: 90px;
+  border-radius: 800px  800px 500px 500px;
+}
+
+.pierna3 {
+  width: 70px;
+  height: 130px;
+  border-radius: 60px;
+  background-color: gray;
+  position: absolute;
+  top:  230px;
+  left: 270px;
+  border-radius: 800px  800px 500px 500px;
+}
+
+.sombra2 {
+   width: 70px;
+  height: 130px;
+  border-radius: 60px;
+  background-color: black;
+  position: absolute;
+  top:  250px;
+  left: 245px;
+  border-radius: 800px  800px 500px 500px; 
+}
+
+.pierna4{
+  width: 70px;
+  height: 130px;
+  border-radius: 60px;
+  background-color: gray;
+  position: absolute;
+  top:  250px;
+  left: 240px;
+  border-radius: 800px  800px 500px 500px; 
+}
+
+.rosa{
+  width: 10px;
+  height: 10px;
+  border-radius: 50px;
+  background-color: pink;
+  position: relative;
+  top: -75px;
+  left:160px; 
+}
+
+.linea {
+  width: 30px;
+  height: 1px;
+  border-radius: 50px;
+  background-color:  black;
+  position: absolute;
+  transform: rotate(-155deg);
+  top: 120px;
+  left:105px;  
+}
+
+.boca {
+  width: 30px;
+  height: 10px;
+  border-radius: 50px;
+  background-color:  gray;
+  position: absolute;
+  transform: rotate(-155deg);
+  top: 120px;
+  left:105px;  
+}
